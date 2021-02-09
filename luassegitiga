@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Luas Segitiga dengan JS</title>
+    <script>
+        var alas = prompt('Silahkan Masukkan nilai Alas');
+        var tinggi = prompt('Silahkan Masukkan nilai Tinggi');
+        var luas = (alas * tinggi)/2;
+        console.log('Alas Segitiga: '+ alas);
+        console.log('Tinggi Segitiga: '+ tinggi);
+        console.log('Luas Segitiga: '+ luas);
+    </script>
+</head>
+<body>
+    
+</body>
+</html>
